@@ -4,6 +4,7 @@ Python. OpenCV.
   
 Detección y seguimiento de objetos.  
 
+Buenos dias maestra! Mi proyecto tiene un error y no pude solucionarlo, creo que no tiene que ver con el codigo que yo escribi, gracias!
 Error:
 Traceback (most recent call last):
   File "C:\Users\angel\Downloads\PROC107-V1-plantilla-proyecto-main\PROC107-V1-plantilla-proyecto-main\object_tracking.py", line 19, in <module>
